@@ -1,13 +1,5 @@
 # README
 
-# Nama
-
-Muhammad Asyraf
-
-# NIM
-
-220705072
-
 ## Deskripsi Tugas
 
 Repo ini merupakan kumpulan tugas GUI (Graphical User Interface) yang dibuat untuk berbagai aplikasi kriptografi dan steganografi. Tugas ini mencakup implementasi GUI untuk beberapa metode populer dalam bidang tersebut, antara lain:
